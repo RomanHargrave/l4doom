@@ -1,13 +1,16 @@
 #summary Frequently Asked Questions.
+#labels Featured
 
 = FAQ =
 
-|| 1. [#Why_the_original_Doom_engine? Why the original Doom engine?] ||
+ # [#Why_the_original_Doom_engine? Why the original Doom engine?]
+ # [#Why_Left_4_Dead? Why Left 4 Dead?]
 
 == Why the original Doom engine? ==
 Why not? The original source code for the Doom engine has been around since 1997. Since then it has had various revisions and updates thanks to the homebrew and modding community. With all these revisions leaves a big community that will most likely be needed to create this sort of project.
 
-
+== Why Left 4 Dead? ==
+Have you played it?
 
 
 
